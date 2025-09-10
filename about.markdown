@@ -1,11 +1,13 @@
 ---
 layout: page
-title: contact
-permalink: /about/contact
+title: Contact
+permalink: /about/Contact
 ---
 
 ## Instagram
 
+
 ## Github
+
 
 ## LinkedIn

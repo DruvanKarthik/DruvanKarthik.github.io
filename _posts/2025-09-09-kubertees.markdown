@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello here "
+title:  "Hello there"
 date:   2025-09-09 07:26:12 +0530
-categories: jekyll update
+categories: Hello there
 ---

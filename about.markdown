@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact
-permalink: /about/Contact
+permalink: /About/Contact
 ---
 
 ## Instagram
